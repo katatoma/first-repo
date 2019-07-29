@@ -1,3 +1,3 @@
 # first-repo
 repository to learn github
-and also to learn git
+but not to to learn git
